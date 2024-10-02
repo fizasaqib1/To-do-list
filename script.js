@@ -10,7 +10,7 @@ else{
 
         </span>
         <button class="trash">
-        <img src="trash.svg">
+        <img src="svgs/trash.svg">
         </button>
         </div>
         `;
