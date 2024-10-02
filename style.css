@@ -185,8 +185,8 @@ overflow: hidden;
 }
 @media(min-width:1282px) {
     .container{
- margin-left:50vmin;
- margin-top: 350px;
+ margin-left:100vmin;
+ margin-top: 250px;
  width: 200px;
  height:800px;
 /* background-color: aqua; */
